@@ -1,5 +1,15 @@
-node_modules/
-dist/
+# Backend
 vendor/
 .env
 .env.*
+storage/logs/*
+storage/framework/*
+bootstrap/cache/*
+
+# Frontend
+node_modules/
+dist/
+
+# System
+.DS_Store
+Thumbs.db
